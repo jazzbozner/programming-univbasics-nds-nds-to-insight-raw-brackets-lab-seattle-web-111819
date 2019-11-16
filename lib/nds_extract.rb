@@ -20,17 +20,6 @@ def directors_totals(nds)
   end
 totals
 end
-#   directors_index = 0
-#   total = {}
-#   while directors_index < nds.length do
-#     element_index = 0
-#     while element_index < nds[row_index].count do
-#       total += directors_database[row_index][element_index]
-#       element_index += 1
-#     end
-#     row_index += 1
-#   end
-# end
   # Remember, it's always OK to pretty print what you get *in* to make sure
   # that you know what you're starting with!
   #
